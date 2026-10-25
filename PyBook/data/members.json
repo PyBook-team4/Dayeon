@@ -1,0 +1,23 @@
+[
+    {
+        "email": "",
+        "pw": "",
+        "name": "",
+        "phone": "",
+        "interest": ""
+    },
+    {
+        "email": "11111",
+        "pw": "11111@",
+        "name": "111",
+        "phone": "01011111111",
+        "interest": ""
+    },
+    {
+        "email": "shshsh@",
+        "pw": "shshsh@",
+        "name": "shshsh",
+        "phone": "01012345678",
+        "interest": ""
+    }
+]
